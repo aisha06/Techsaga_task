@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "674611772787",
+    "project_id": "techsaga-afc67",
+    "storage_bucket": "techsaga-afc67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674611772787:android:8dce40ff0845107feb5906",
+        "android_client_info": {
+          "package_name": "com.example.taskk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlUMNEj0WLBx4GkSCNhEee1uiVv15dSbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
